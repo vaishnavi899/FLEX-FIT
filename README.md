@@ -101,6 +101,9 @@ cd flexfit-app
   POST http://localhost:4000/send/mail
   {
     "name": "John Doe",
+
+
+
     "email": "johndoe@example.com",
     "message": "Hello, this is a test message."
   }
