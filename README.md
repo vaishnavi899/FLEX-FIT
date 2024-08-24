@@ -14,6 +14,7 @@ This is the FLEXFIT full stack application, built using React for the frontend a
   - Responsive design with a modern UI.
   - Displays programs and services.
   - Contact form for users to send messages.
+    
 
 - **Express Backend**:
   - API for handling requests from the frontend.
