@@ -16,6 +16,10 @@ This is the FLEXFIT full stack application, built using React for the frontend a
   - Contact form for users to send messages.
     
 
+https://github.com/user-attachments/assets/4c807fba-3a4d-4848-a1b6-094578af61db
+
+
+
 - **Express Backend**:
   - API for handling requests from the frontend.
   - Secure email-sending feature using Nodemailer.
